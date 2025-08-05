@@ -75,6 +75,5 @@ Here are some key insights derived from the dashboard:
 # Executive Summary
 
 This dashboard helps stakeholders understand the *financial performance of credit cards* and *customer behavior patterns* using transaction-level and customer-level data. 
-
 Key metrics such as total revenue, interest earned, transaction count, and customer income are tracked across time and categories. The visualizations support strategic decisions on *marketing, credit policies, and customer segmentation*.
 
