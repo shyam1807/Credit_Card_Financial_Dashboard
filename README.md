@@ -4,14 +4,6 @@ This project is an end-to-end *data analytics solution* that analyzes credit car
 
 ---
 
-# Executive Summary
-
-This dashboard helps stakeholders understand the *financial performance of credit cards* and *customer behavior patterns* using transaction-level and customer-level data. 
-
-Key metrics such as total revenue, interest earned, transaction count, and customer income are tracked across time and categories. The visualizations support strategic decisions on *marketing, credit policies, and customer segmentation*.
-
----
-
 #  Project Objective
 
 To analyze and visualize credit card data to:
@@ -56,13 +48,13 @@ Here are some key insights derived from the dashboard:
 
 #  Key Dashboard Components
 
-# Credit Card Transaction Report
+### Credit Card Transaction Report
 - Revenue & Interest by Card Type
 - Transactions by Quarter
 - Revenue by Expenditure Type
 - Revenue by Customer Job, Education, and Card Usage
 
-# Customer Report
+### Customer Report
 - Revenue by Week, Age Group, and State
 - Revenue vs Income Group
 - Revenue by Marital Status and Dependent Count
@@ -79,3 +71,10 @@ Here are some key insights derived from the dashboard:
 - *Excel / CSV* – Initial data loading
 
 ---
+
+# Executive Summary
+
+This dashboard helps stakeholders understand the *financial performance of credit cards* and *customer behavior patterns* using transaction-level and customer-level data. 
+
+Key metrics such as total revenue, interest earned, transaction count, and customer income are tracked across time and categories. The visualizations support strategic decisions on *marketing, credit policies, and customer segmentation*.
+
